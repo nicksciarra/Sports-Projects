@@ -23,10 +23,8 @@ pga_predictor/
 ```
 
 ## Data Sources (Free/Freemium)
-1. **DataGolf API** (datagolf.com) — Best source for PGA strokes gained, rankings, course fit
-   - Free tier: limited historical + current season data
-   - Paid (~$30/mo): full historical SG splits, field projections
-2. **OpenWeatherMap API** (free tier) — Forecast data for tournament locations
+1. **DataGolf API** 
+2. **OpenWeatherMap API**
 3. **PGA Tour website** — Supplemental schedule/field info (scraped)
 
 ## Quickstart
