@@ -22,7 +22,7 @@ pga_predictor/
 └── output/                    # Saved models & predictions
 ```
 
-## Data Sources (Free/Freemium)
+## Data Sources
 1. **DataGolf API** 
 2. **OpenWeatherMap API**
 3. **PGA Tour website** — Supplemental schedule/field info (scraped)
