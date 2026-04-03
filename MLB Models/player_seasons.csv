@@ -1,0 +1,904 @@
+season,name,team,war,playerid_fg,name_clean
+2024,Aaron Judge,NYY,11.3,judgeaa01,aaron judge
+2022,Aaron Judge,NYY,11.1,judgeaa01,aaron judge
+2025,Aaron Judge,NYY,10.1,judgeaa01,aaron judge
+2021,Aaron Judge,NYY,5.5,judgeaa01,aaron judge
+2022,Aaron Nola,PHI,6.3,nolaaa01,aaron nola
+2021,Aaron Nola,PHI,4.4,nolaaa01,aaron nola
+2023,Aaron Nola,PHI,3.8,nolaaa01,aaron nola
+2024,Aaron Nola,PHI,3.1,nolaaa01,aaron nola
+2022,Adam Frazier,SEA,1.3,fraziad01,adam frazier
+2021,Adam Wainwright,STL,3.9,wainwad01,adam wainwright
+2022,Adam Wainwright,STL,2.9,wainwad01,adam wainwright
+2025,Addison Barger,TOR,2.2,bargead01,addison barger
+2023,Adley Rutschman,BAL,5.5,rutscad01,adley rutschman
+2024,Adley Rutschman,BAL,2.7,rutscad01,adley rutschman
+2023,Adolis García,TEX,4.7,garciad02,adolis garcía
+2022,Adolis García,TEX,3.2,garciad02,adolis garcía
+2021,Adolis García,TEX,2.8,garciad02,adolis garcía
+2025,Adolis García,TEX,0.7,garciad02,adolis garcía
+2024,Adolis García,TEX,-0.1,garciad02,adolis garcía
+2025,Agustín Ramírez,MIA,0.0,ramirag01,agustín ramírez
+2022,AJ Pollock,CHW,0.6,polloaj01,aj pollock
+2024,Alec Bohm,PHI,3.4,bohmal01,alec bohm
+2025,Alec Bohm,PHI,1.7,bohmal01,alec bohm
+2022,Alec Bohm,PHI,1.4,bohmal01,alec bohm
+2023,Alec Bohm,PHI,1.4,bohmal01,alec bohm
+2025,Alec Burleson,STL,2.1,burleal01,alec burleson
+2024,Alec Burleson,STL,0.7,burleal01,alec burleson
+2025,Alejandro Kirk,TOR,4.7,kirkal01,alejandro kirk
+2022,Alejandro Kirk,TOR,4.3,kirkal01,alejandro kirk
+2022,Alek Manoah,TOR,3.9,manoaal01,alek manoah
+2022,Alex Bregman,HOU,5.4,bregmal01,alex bregman
+2023,Alex Bregman,HOU,4.4,bregmal01,alex bregman
+2024,Alex Bregman,HOU,4.2,bregmal01,alex bregman
+2021,Alex Verdugo,BOS,1.9,verdual01,alex verdugo
+2023,Alex Verdugo,BOS,1.5,verdual01,alex verdugo
+2022,Alex Verdugo,BOS,1.1,verdual01,alex verdugo
+2024,Alex Verdugo,NYY,0.6,verdual01,alex verdugo
+2022,Amed Rosario,CLE,3.1,rosaram01,amed rosario
+2021,Amed Rosario,CLE,2.8,rosaram01,amed rosario
+2023,Amed Rosario,2 Tms,0.4,rosaram01,amed rosario
+2025,Andre Pallante,STL,0.7,pallaan01,andre pallante
+2022,Andrés Giménez,CLE,6.1,gimenan01,andrés giménez
+2023,Andrés Giménez,CLE,3.8,gimenan01,andrés giménez
+2024,Andrés Giménez,CLE,2.8,gimenan01,andrés giménez
+2025,Andrew Abbott,CIN,3.9,abbotan01,andrew abbott
+2022,Andrew Benintendi,2 Tms,2.0,beninan01,andrew benintendi
+2021,Andrew Benintendi,KCR,1.4,beninan01,andrew benintendi
+2024,Andrew Benintendi,CHW,-0.1,beninan01,andrew benintendi
+2023,Andrew Benintendi,CHW,-0.3,beninan01,andrew benintendi
+2021,Andrew McCutchen,PHI,1.5,mccutan01,andrew mccutchen
+2022,Andrew McCutchen,MIL,0.6,mccutan01,andrew mccutchen
+2024,Andrew McCutchen,PIT,0.5,mccutan01,andrew mccutchen
+2025,Andrew McCutchen,PIT,-0.1,mccutan01,andrew mccutchen
+2023,Andrew Vaughn,CHW,0.4,vaughan01,andrew vaughn
+2024,Andrew Vaughn,CHW,-0.1,vaughan01,andrew vaughn
+2022,Andrew Vaughn,CHW,-0.6,vaughan01,andrew vaughn
+2025,Andy Pages,LAD,4.1,pagesan01,andy pages
+2021,Anthony DeSclafani,SFG,3.0,desclan01,anthony desclafani
+2022,Anthony Rizzo,NYY,2.5,rizzoan01,anthony rizzo
+2024,Anthony Santander,BAL,3.2,santaan02,anthony santander
+2023,Anthony Santander,BAL,2.5,santaan02,anthony santander
+2022,Anthony Santander,BAL,2.3,santaan02,anthony santander
+2024,Anthony Volpe,NYY,3.5,volpean01,anthony volpe
+2023,Anthony Volpe,NYY,1.9,volpean01,anthony volpe
+2025,Anthony Volpe,NYY,1.0,volpean01,anthony volpe
+2024,Austin Gomber,COL,1.3,gombeau01,austin gomber
+2023,Austin Hays,BAL,2.7,haysau01,austin hays
+2021,Austin Hays,BAL,1.8,haysau01,austin hays
+2022,Austin Hays,BAL,1.8,haysau01,austin hays
+2021,Austin Meadows,TBR,1.5,meadoau01,austin meadows
+2022,Austin Riley,ATL,5.9,rileyau01,austin riley
+2023,Austin Riley,ATL,5.2,rileyau01,austin riley
+2021,Austin Riley,ATL,5.1,rileyau01,austin riley
+2021,Avisaíl García,MIL,2.3,garciav01,avisaíl garcía
+2024,Bailey Ober,MIN,3.0,oberba01,bailey ober
+2025,Ben Rice,NYY,3.0,ricebe01,ben rice
+2023,Blake Snell,SDP,4.1,snellbl01,blake snell
+2021,Bo Bichette,TOR,4.9,bichebo01,bo bichette
+2022,Bo Bichette,TOR,4.8,bichebo01,bo bichette
+2023,Bo Bichette,TOR,3.9,bichebo01,bo bichette
+2025,Bo Bichette,TOR,3.8,bichebo01,bo bichette
+2024,Bobby Witt Jr.,KCR,10.5,wittbo02,bobby witt jr
+2025,Bobby Witt Jr.,KCR,8.0,wittbo02,bobby witt jr
+2023,Bobby Witt Jr.,KCR,5.9,wittbo02,bobby witt jr
+2022,Bobby Witt Jr.,KCR,2.3,wittbo02,bobby witt jr
+2025,Brady Singer,CIN,2.9,singebr01,brady singer
+2024,Brady Singer,KCR,2.5,singebr01,brady singer
+2021,Brandon Crawford,SFG,6.2,crawfbr01,brandon crawford
+2022,Brandon Drury,2 Tms,3.1,drurybr01,brandon drury
+2023,Brandon Drury,LAA,2.7,drurybr01,brandon drury
+2021,Brandon Lowe,TBR,4.5,lowebr01,brandon lowe
+2025,Brandon Lowe,TBR,1.7,lowebr01,brandon lowe
+2022,Brandon Nimmo,NYM,5.5,nimmobr01,brandon nimmo
+2023,Brandon Nimmo,NYM,4.2,nimmobr01,brandon nimmo
+2025,Brandon Nimmo,NYM,3.0,nimmobr01,brandon nimmo
+2024,Brandon Nimmo,NYM,2.8,nimmobr01,brandon nimmo
+2024,Brandon Pfaadt,ARI,3.1,pfaadbr01,brandon pfaadt
+2025,Brandon Pfaadt,ARI,1.7,pfaadbr01,brandon pfaadt
+2021,Brandon Woodruff,MIL,4.7,woodrbr01,brandon woodruff
+2024,Brayan Bello,BOS,2.0,bellobr01,brayan bello
+2025,Brayan Bello,BOS,1.9,bellobr01,brayan bello
+2024,Brendan Donovan,STL,3.2,donovbr01,brendan donovan
+2025,Brendan Donovan,STL,2.9,donovbr01,brendan donovan
+2022,Brendan Rodgers,COL,1.8,rodgebr02,brendan rodgers
+2024,Brendan Rodgers,COL,0.8,rodgebr02,brendan rodgers
+2024,Brent Rooker,OAK,5.1,rookebr01,brent rooker
+2025,Brent Rooker,ATH,2.4,rookebr01,brent rooker
+2023,Brent Rooker,OAK,2.1,rookebr01,brent rooker
+2024,Brenton Doyle,COL,3.6,doylebr02,brenton doyle
+2025,Brenton Doyle,COL,0.4,doylebr02,brenton doyle
+2025,Brice Turang,MIL,4.4,turanbr02,brice turang
+2024,Brice Turang,MIL,2.6,turanbr02,brice turang
+2025,Brooks Lee,MIN,0.3,leebr02,brooks lee
+2023,Bryan De La Cruz,MIA,-0.3,delacbr01,bryan de la cruz
+2024,Bryan De La Cruz,2 Tms,-1.1,delacbr01,bryan de la cruz
+2021,Bryan Reynolds,PIT,6.3,reynobr01,bryan reynolds
+2022,Bryan Reynolds,PIT,2.9,reynobr01,bryan reynolds
+2024,Bryan Reynolds,PIT,2.2,reynobr01,bryan reynolds
+2023,Bryan Reynolds,PIT,2.1,reynobr01,bryan reynolds
+2025,Bryan Reynolds,PIT,1.1,reynobr01,bryan reynolds
+2025,Bryan Woo,SEA,3.6,woobr01,bryan woo
+2023,Bryce Elder,ATL,1.8,elderbr01,bryce elder
+2021,Bryce Harper,PHI,6.7,harpebr03,bryce harper
+2024,Bryce Harper,PHI,5.1,harpebr03,bryce harper
+2023,Bryce Harper,PHI,3.5,harpebr03,bryce harper
+2025,Bryce Harper,PHI,3.5,harpebr03,bryce harper
+2024,Bryce Miller,SEA,2.7,millebr04,bryce miller
+2023,Bryson Stott,PHI,4.1,stottbr01,bryson stott
+2025,Bryson Stott,PHI,3.1,stottbr01,bryson stott
+2024,Bryson Stott,PHI,1.8,stottbr01,bryson stott
+2025,Byron Buxton,MIN,5.0,buxtoby01,byron buxton
+2021,C.J. Cron,COL,2.3,croncj01,cj cron
+2022,C.J. Cron,COL,1.4,croncj01,cj cron
+2022,Cal Quantrill,CLE,2.1,quantca01,cal quantrill
+2025,Cal Raleigh,SEA,9.1,raleica01,cal raleigh
+2024,Cal Raleigh,SEA,5.4,raleica01,cal raleigh
+2023,Cal Raleigh,SEA,4.3,raleica01,cal raleigh
+2025,Caleb Durbin,MIL,2.6,durbica01,caleb durbin
+2021,Carlos Correa,HOU,6.3,correca01,carlos correa
+2022,Carlos Correa,MIN,4.6,correca01,carlos correa
+2025,Carlos Correa,2 Tms,2.6,correca01,carlos correa
+2023,Carlos Correa,MIN,1.7,correca01,carlos correa
+2022,Carlos Rodón,SFG,6.2,rodonca01,carlos rodón
+2025,Carlos Rodón,NYY,3.2,rodonca01,carlos rodón
+2024,Carlos Rodón,NYY,1.6,rodonca01,carlos rodón
+2024,Carlos Santana,MIN,2.9,santaca01,carlos santana
+2023,Carlos Santana,2 Tms,1.5,santaca01,carlos santana
+2022,Carlos Santana,2 Tms,0.9,santaca01,carlos santana
+2021,Carlos Santana,KCR,-0.8,santaca01,carlos santana
+2025,Ceddanne Rafaela,BOS,3.8,rafaece01,ceddanne rafaela
+2024,Ceddanne Rafaela,BOS,1.0,rafaece01,ceddanne rafaela
+2021,Cedric Mullins,BAL,6.0,mullice01,cedric mullins
+2022,Cedric Mullins,BAL,3.7,mullice01,cedric mullins
+2022,César Hernández,WSN,0.5,hernace02,césar hernández
+2022,Charlie Blackmon,COL,0.2,blackch02,charlie blackmon
+2021,Charlie Blackmon,COL,-0.1,blackch02,charlie blackmon
+2021,Charlie Morton,ATL,4.5,mortoch02,charlie morton
+2023,Charlie Morton,ATL,2.7,mortoch02,charlie morton
+2022,Charlie Morton,ATL,1.4,mortoch02,charlie morton
+2024,Charlie Morton,ATL,1.1,mortoch02,charlie morton
+2025,Chase Meidroth,CHW,1.3,meidrch01,chase meidroth
+2022,Chris Bassitt,NYM,2.8,bassich01,chris bassitt
+2023,Chris Bassitt,TOR,2.6,bassich01,chris bassitt
+2025,Chris Bassitt,TOR,2.4,bassich01,chris bassitt
+2024,Chris Bassitt,TOR,2.3,bassich01,chris bassitt
+2021,Chris Flexen,SEA,3.0,flexech01,chris flexen
+2024,Chris Sale,ATL,6.4,salech01,chris sale
+2021,Chris Taylor,LAD,2.8,tayloch03,chris taylor
+2022,Christian Walker,ARI,3.9,walkech02,christian walker
+2023,Christian Walker,ARI,3.9,walkech02,christian walker
+2024,Christian Walker,ARI,3.1,walkech02,christian walker
+2025,Christian Walker,HOU,1.1,walkech02,christian walker
+2023,Christian Yelich,MIL,3.8,yelicch01,christian yelich
+2025,Christian Yelich,MIL,2.4,yelicch01,christian yelich
+2022,Christian Yelich,MIL,2.2,yelicch01,christian yelich
+2024,Christopher Morel,2 Tms,-1.0,morelch01,christopher morel
+2025,CJ Abrams,WSN,3.1,abramcj01,cj abrams
+2023,CJ Abrams,WSN,2.3,abramcj01,cj abrams
+2024,CJ Abrams,WSN,1.9,abramcj01,cj abrams
+2025,Clay Holmes,NYM,1.9,holmecl01,clay holmes
+2025,Cody Bellinger,NYY,4.9,bellico01,cody bellinger
+2023,Cody Bellinger,CHC,4.4,bellico01,cody bellinger
+2024,Cody Bellinger,CHC,2.1,bellico01,cody bellinger
+2022,Cody Bellinger,LAD,1.5,bellico01,cody bellinger
+2021,Cole Irvin,OAK,2.0,irvinco01,cole irvin
+2022,Cole Irvin,OAK,1.4,irvinco01,cole irvin
+2024,Cole Ragans,KCR,4.9,raganco01,cole ragans
+2024,Colin Rea,MIL,0.8,reaco01,colin rea
+2024,Colt Keith,DET,1.7,keithco01,colt keith
+2024,Colton Cowser,BAL,3.8,cowseco01,colton cowser
+2021,Corbin Burnes,MIL,7.5,burneco01,corbin burnes
+2022,Corbin Burnes,MIL,4.6,burneco01,corbin burnes
+2024,Corbin Burnes,BAL,3.8,burneco01,corbin burnes
+2023,Corbin Burnes,MIL,3.4,burneco01,corbin burnes
+2025,Corbin Carroll,ARI,6.5,carroco02,corbin carroll
+2023,Corbin Carroll,ARI,5.3,carroco02,corbin carroll
+2024,Corbin Carroll,ARI,4.3,carroco02,corbin carroll
+2022,Corey Kluber,TBR,3.1,klubeco01,corey kluber
+2023,Corey Seager,TEX,6.4,seageco01,corey seager
+2024,Corey Seager,TEX,4.6,seageco01,corey seager
+2022,Corey Seager,TEX,4.3,seageco01,corey seager
+2023,Cristian Javier,HOU,2.0,javiecr01,cristian javier
+2025,Cristopher Sánchez,PHI,6.4,sanchcr01,cristopher sánchez
+2024,Cristopher Sánchez,PHI,4.7,sanchcr01,cristopher sánchez
+2021,Dallas Keuchel,CHW,0.7,keuchda01,dallas keuchel
+2023,Dane Dunning,TEX,1.9,dunnida01,dane dunning
+2022,Dansby Swanson,ATL,6.6,swansda01,dansby swanson
+2023,Dansby Swanson,CHC,4.8,swansda01,dansby swanson
+2024,Dansby Swanson,CHC,4.2,swansda01,dansby swanson
+2021,Dansby Swanson,ATL,3.3,swansda01,dansby swanson
+2025,Dansby Swanson,CHC,3.3,swansda01,dansby swanson
+2022,Daulton Varsho,ARI,4.3,varshda01,daulton varsho
+2024,Daulton Varsho,TOR,3.1,varshda01,daulton varsho
+2023,Daulton Varsho,TOR,1.9,varshda01,daulton varsho
+2021,David Fletcher,LAA,0.8,fletcda02,david fletcher
+2021,David Peralta,ARI,1.5,peralda01,david peralta
+2025,David Peterson,NYM,3.1,peterda01,david peterson
+2025,Dean Kremer,BAL,2.6,kremede01,dean kremer
+2023,Dean Kremer,BAL,1.6,kremede01,dean kremer
+2022,DJ LeMahieu,NYY,3.1,lemahdj01,dj lemahieu
+2021,DJ LeMahieu,NYY,2.1,lemahdj01,dj lemahieu
+2023,DJ LeMahieu,NYY,1.3,lemahdj01,dj lemahieu
+2023,Dominic Smith,WSN,-0.1,smithdo02,dominic smith
+2021,Dylan Carlson,STL,2.4,carlsdy01,dylan carlson
+2024,Dylan Cease,SDP,4.7,ceasedy01,dylan cease
+2021,Dylan Cease,CHW,4.5,ceasedy01,dylan cease
+2022,Dylan Cease,CHW,4.4,ceasedy01,dylan cease
+2023,Dylan Cease,CHW,3.6,ceasedy01,dylan cease
+2025,Dylan Cease,SDP,3.4,ceasedy01,dylan cease
+2023,Eddie Rosario,ATL,1.3,rosared01,eddie rosario
+2022,Eduardo Escobar,NYM,1.9,escobed01,eduardo escobar
+2023,Elias Díaz,COL,-0.1,diazel01,elias díaz
+2024,Elly De La Cruz,CIN,6.6,delacel01,elly de la cruz
+2025,Elly De La Cruz,CIN,4.3,delacel01,elly de la cruz
+2022,Elvis Andrus,2 Tms,3.4,andruel01,elvis andrus
+2021,Elvis Andrus,OAK,1.6,andruel01,elvis andrus
+2021,Enrique Hernández,BOS,3.7,hernaen02,enrique hernández
+2023,Enrique Hernández,2 Tms,-1.1,hernaen02,enrique hernández
+2021,Eric Hosmer,SDP,0.9,hosmeer01,eric hosmer
+2025,Eric Wagaman,MIA,-0.4,wagamer01,eric wagaman
+2024,Erick Fedde,2 Tms,3.4,feddeer01,erick fedde
+2025,Ernie Clement,TOR,3.2,clemeer01,ernie clement
+2022,Eugenio Suárez,SEA,4.3,suareeu01,eugenio suárez
+2024,Eugenio Suárez,ARI,3.8,suareeu01,eugenio suárez
+2025,Eugenio Suárez,2 Tms,3.8,suareeu01,eugenio suárez
+2023,Eugenio Suárez,SEA,3.5,suareeu01,eugenio suárez
+2021,Eugenio Suárez,CIN,0.0,suareeu01,eugenio suárez
+2024,Ezequiel Tovar,COL,3.7,tovarez01,ezequiel tovar
+2023,Ezequiel Tovar,COL,1.7,tovarez01,ezequiel tovar
+2021,Fernando Tatis Jr.,SDP,6.8,tatisfe02,fernando tatis jr
+2025,Fernando Tatis Jr.,SDP,6.1,tatisfe02,fernando tatis jr
+2023,Fernando Tatis Jr.,SDP,4.0,tatisfe02,fernando tatis jr
+2022,Framber Valdez,HOU,4.4,valdefr01,framber valdez
+2023,Framber Valdez,HOU,4.4,valdefr01,framber valdez
+2025,Framber Valdez,HOU,4.0,valdefr01,framber valdez
+2024,Framber Valdez,HOU,3.7,valdefr01,framber valdez
+2024,Francisco Lindor,NYM,7.7,lindofr01,francisco lindor
+2022,Francisco Lindor,NYM,6.4,lindofr01,francisco lindor
+2025,Francisco Lindor,NYM,6.3,lindofr01,francisco lindor
+2023,Francisco Lindor,NYM,5.5,lindofr01,francisco lindor
+2021,Francisco Lindor,NYM,3.9,lindofr01,francisco lindor
+2021,Frankie Montas,OAK,4.0,montafr01,frankie montas
+2023,Freddie Freeman,LAD,7.7,freemfr01,freddie freeman
+2022,Freddie Freeman,LAD,6.8,freemfr01,freddie freeman
+2021,Freddie Freeman,ATL,4.7,freemfr01,freddie freeman
+2024,Freddie Freeman,LAD,4.0,freemfr01,freddie freeman
+2025,Freddie Freeman,LAD,3.9,freemfr01,freddie freeman
+2025,Freddy Peralta,MIL,3.6,peralfr01,freddy peralta
+2023,Freddy Peralta,MIL,3.0,peralfr01,freddy peralta
+2024,Freddy Peralta,MIL,2.3,peralfr01,freddy peralta
+2025,Garrett Crochet,BOS,5.8,crochga01,garrett crochet
+2025,Gavin Lux,CIN,0.3,luxga01,gavin lux
+2025,Gavin Sheets,SDP,1.3,sheetga01,gavin sheets
+2025,Gavin Williams,CLE,1.4,williga01,gavin williams
+2023,George Kirby,SEA,4.2,kirbyge01,george kirby
+2024,George Kirby,SEA,4.1,kirbyge01,george kirby
+2025,George Springer,TOR,5.2,springe01,george springer
+2022,George Springer,TOR,4.0,springe01,george springer
+2023,George Springer,TOR,1.9,springe01,george springer
+2024,George Springer,TOR,1.1,springe01,george springer
+2025,Geraldo Perdomo,ARI,7.1,perdoge01,geraldo perdomo
+2021,Germán Márquez,COL,3.4,marquge01,germán márquez
+2022,Germán Márquez,COL,1.3,marquge01,germán márquez
+2023,Gerrit Cole,NYY,5.3,colege01,gerrit cole
+2021,Gerrit Cole,NYY,5.2,colege01,gerrit cole
+2022,Gerrit Cole,NYY,3.4,colege01,gerrit cole
+2021,Giancarlo Stanton,NYY,3.0,stantmi03,giancarlo stanton
+2022,Gio Urshela,MIN,2.6,urshegi01,gio urshela
+2023,Gleyber Torres,NYY,3.7,torregl01,gleyber torres
+2022,Gleyber Torres,NYY,2.6,torregl01,gleyber torres
+2025,Gleyber Torres,DET,2.6,torregl01,gleyber torres
+2024,Gleyber Torres,NYY,1.8,torregl01,gleyber torres
+2021,Gleyber Torres,NYY,1.4,torregl01,gleyber torres
+2024,Griffin Canning,LAA,0.1,cannigr01,griffin canning
+2024,Gunnar Henderson,BAL,7.9,hendegu01,gunnar henderson
+2025,Gunnar Henderson,BAL,4.8,hendegu01,gunnar henderson
+2023,Gunnar Henderson,BAL,4.7,hendegu01,gunnar henderson
+2023,Ha-Seong Kim,SDP,4.2,kimha01,ha-seong kim
+2022,Ha-Seong Kim,SDP,3.6,kimha01,ha-seong kim
+2024,Heliot Ramos,SFG,2.3,ramoshe02,heliot ramos
+2025,Heliot Ramos,SFG,1.1,ramoshe02,heliot ramos
+2025,Hunter Brown,HOU,4.6,brownhu01,hunter brown
+2024,Hunter Brown,HOU,3.2,brownhu01,hunter brown
+2021,Hunter Dozier,KCR,-0.9,doziehu01,hunter dozier
+2025,Hunter Goodman,COL,3.4,goodmhu01,hunter goodman
+2021,Hunter Renfroe,BOS,2.6,renfrhu01,hunter renfroe
+2022,Hunter Renfroe,MIL,2.4,renfrhu01,hunter renfroe
+2023,Hunter Renfroe,2 Tms,0.4,renfrhu01,hunter renfroe
+2021,Hyun Jin Ryu,TOR,2.5,ryuhy01,hyun jin ryu
+2022,Ian Happ,CHC,3.7,happia01,ian happ
+2024,Ian Happ,CHC,3.6,happia01,ian happ
+2023,Ian Happ,CHC,3.3,happia01,ian happ
+2025,Ian Happ,CHC,2.8,happia01,ian happ
+2021,Ian Happ,CHC,1.5,happia01,ian happ
+2023,Isaac Paredes,TBR,4.2,paredis01,isaac paredes
+2024,Isaac Paredes,2 Tms,3.4,paredis01,isaac paredes
+2021,Isiah Kiner-Falefa,TEX,1.6,kineris01,isiah kiner-falefa
+2022,Isiah Kiner-Falefa,NYY,1.5,kineris01,isiah kiner-falefa
+2023,J.D. Davis,SFG,2.2,davisjd01,jd davis
+2021,J.D. Martinez,BOS,2.7,martijd02,jd martinez
+2022,J.D. Martinez,BOS,1.4,martijd02,jd martinez
+2023,J.P. Crawford,SEA,4.9,crawfjp01,jp crawford
+2021,J.P. Crawford,SEA,3.1,crawfjp01,jp crawford
+2025,J.P. Crawford,SEA,2.8,crawfjp01,jp crawford
+2022,J.P. Crawford,SEA,2.2,crawfjp01,jp crawford
+2022,J.T. Realmuto,PHI,6.7,realmjt01,jt realmuto
+2021,J.T. Realmuto,PHI,4.6,realmjt01,jt realmuto
+2025,J.T. Realmuto,PHI,2.1,realmjt01,jt realmuto
+2023,J.T. Realmuto,PHI,2.0,realmjt01,jt realmuto
+2024,Jack Flaherty,2 Tms,3.3,flaheja01,jack flaherty
+2023,Jack Suwinski,PIT,2.7,suwinja01,jack suwinski
+2024,Jackson Chourio,MIL,3.9,chourja01,jackson chourio
+2025,Jackson Chourio,MIL,2.9,chourja01,jackson chourio
+2025,Jackson Holliday,BAL,1.2,hollija01,jackson holliday
+2024,Jackson Merrill,SDP,5.3,merrija01,jackson merrill
+2025,Jacob deGrom,TEX,3.4,degroja01,jacob degrom
+2025,Jacob Wilson,ATH,3.5,wilsoja03,jacob wilson
+2024,Jacob Young,WSN,2.7,youngja03,jacob young
+2023,Jake Burger,2 Tms,2.3,burgeja01,jake burger
+2024,Jake Burger,MIA,1.4,burgeja01,jake burger
+2021,Jake Cronenworth,SDP,3.7,croneja01,jake cronenworth
+2022,Jake Cronenworth,SDP,3.6,croneja01,jake cronenworth
+2025,Jake Cronenworth,SDP,2.9,croneja01,jake cronenworth
+2024,Jake Cronenworth,SDP,2.1,croneja01,jake cronenworth
+2023,Jake Cronenworth,SDP,0.8,croneja01,jake cronenworth
+2024,Jake Irvin,WSN,1.8,irvinja01,jake irvin
+2025,Jake Irvin,WSN,-0.4,irvinja01,jake irvin
+2024,Jake Meyers,HOU,1.9,meyerja02,jake meyers
+2023,James Outman,LAD,3.9,outmaja01,james outman
+2025,James Wood,WSN,3.3,woodja03,james wood
+2022,Jameson Taillon,NYY,2.4,taillja01,jameson taillon
+2024,Jameson Taillon,CHC,2.3,taillja01,jameson taillon
+2021,Jared Walsh,LAA,2.4,walshja01,jared walsh
+2024,Jarren Duran,BOS,6.8,duranja01,jarren duran
+2025,Jarren Duran,BOS,3.9,duranja01,jarren duran
+2021,Javier Báez,2 Tms,4.1,baezja01,javier báez
+2022,Javier Báez,DET,2.0,baezja01,javier báez
+2023,Javier Báez,DET,0.7,baezja01,javier báez
+2025,Jazz Chisholm Jr.,NYY,4.4,chishja01,jazz chisholm jr
+2024,Jazz Chisholm Jr.,2 Tms,4.0,chishja01,jazz chisholm jr
+2021,Jazz Chisholm Jr.,MIA,1.8,chishja01,jazz chisholm jr
+2021,Jean Segura,PHI,3.5,segurje01,jean segura
+2021,Jed Lowrie,OAK,0.9,lowrije01,jed lowrie
+2022,Jeff McNeil,NYM,5.5,mcneije01,jeff mcneil
+2023,Jeff McNeil,NYM,2.4,mcneije01,jeff mcneil
+2025,Jeffrey Springs,ATH,1.7,sprinje01,jeffrey springs
+2021,Jeimer Candelario,DET,3.9,candeje01,jeimer candelario
+2023,Jeimer Candelario,2 Tms,3.2,candeje01,jeimer candelario
+2025,Jeremy Peña,HOU,5.7,penaje02,jeremy peña
+2022,Jeremy Peña,HOU,3.3,penaje02,jeremy peña
+2023,Jeremy Peña,HOU,2.7,penaje02,jeremy peña
+2024,Jeremy Peña,HOU,2.7,penaje02,jeremy peña
+2024,Jesse Winker,2 Tms,1.4,winkeje01,jesse winker
+2022,Jesse Winker,SEA,0.8,winkeje01,jesse winker
+2021,Jesús Aguilar,MIA,1.3,aguilje01,jesús aguilar
+2022,Jesús Aguilar,2 Tms,-0.7,aguilje01,jesús aguilar
+2025,Jesús Luzardo,PHI,5.3,luzarje01,jesús luzardo
+2023,Jesús Luzardo,MIA,3.8,luzarje01,jesús luzardo
+2024,Jesús Sánchez,MIA,1.6,sanchje02,jesús sánchez
+2024,JJ Bleday,OAK,3.2,bledajj01,jj bleday
+2025,Jo Adell,LAA,1.2,adelljo01,jo adell
+2022,Joe Musgrove,SDP,3.4,musgrjo01,joe musgrove
+2021,Joe Musgrove,SDP,3.3,musgrjo01,joe musgrove
+2025,Joe Ryan,MIN,3.1,ryanjo04,joe ryan
+2021,Joey Gallo,2 Tms,4.4,gallojo01,joey gallo
+2023,Joey Meneses,WSN,-0.3,menesjo01,joey meneses
+2024,Joey Ortiz,MIL,3.2,ortizjo06,joey ortiz
+2025,Joey Ortiz,MIL,1.4,ortizjo06,joey ortiz
+2021,Joey Votto,CIN,3.5,vottojo01,joey votto
+2023,Johan Oviedo,PIT,1.8,oviedjo01,johan oviedo
+2021,Jonathan India,CIN,3.4,indiajo01,jonathan india
+2024,Jonathan India,CIN,2.9,indiajo01,jonathan india
+2023,Jonathan India,CIN,1.6,indiajo01,jonathan india
+2025,Jonathan India,KCR,-0.3,indiajo01,jonathan india
+2021,Jonathan Schoop,DET,2.2,schoojo01,jonathan schoop
+2022,Jonathan Schoop,DET,1.3,schoojo01,jonathan schoop
+2021,Jonathan Villar,NYM,2.0,villajo01,jonathan villar
+2025,Jordan Beck,COL,0.9,beckjo01,jordan beck
+2022,Jordan Lyles,BAL,1.5,lylesjo01,jordan lyles
+2021,Jordan Lyles,TEX,0.2,lylesjo01,jordan lyles
+2023,Jordan Lyles,KCR,0.2,lylesjo01,jordan lyles
+2023,Jordan Montgomery,2 Tms,4.2,montgjo01,jordan montgomery
+2022,Jordan Montgomery,2 Tms,2.8,montgjo01,jordan montgomery
+2022,Jorge Mateo,BAL,2.8,mateojo01,jorge mateo
+2021,Jorge Polanco,MIN,4.0,polanjo01,jorge polanco
+2025,Jorge Polanco,SEA,2.6,polanjo01,jorge polanco
+2023,Jorge Soler,MIA,1.9,solerjo01,jorge soler
+2024,Jorge Soler,2 Tms,1.1,solerjo01,jorge soler
+2021,Jorge Soler,2 Tms,0.0,solerjo01,jorge soler
+2022,José Abreu,CHW,3.8,abreujo02,josé abreu
+2021,José Abreu,CHW,2.8,abreujo02,josé abreu
+2023,José Abreu,HOU,-0.5,abreujo02,josé abreu
+2022,Jose Altuve,HOU,6.9,altuvjo01,jose altuve
+2021,Jose Altuve,HOU,5.2,altuvjo01,jose altuve
+2024,Jose Altuve,HOU,3.9,altuvjo01,jose altuve
+2025,Jose Altuve,HOU,2.1,altuvjo01,jose altuve
+2021,José Berríos,2 Tms,4.0,berrijo01,josé berríos
+2023,José Berríos,TOR,2.9,berrijo01,josé berríos
+2025,José Berríos,TOR,1.3,berrijo01,josé berríos
+2024,José Berríos,TOR,1.1,berrijo01,josé berríos
+2022,José Berríos,TOR,0.9,berrijo01,josé berríos
+2021,Jose Iglesias,2 Tms,1.8,iglesjo01,jose iglesias
+2022,Jose Quintana,2 Tms,4.0,quintjo01,jose quintana
+2024,Jose Quintana,NYM,1.1,quintjo01,jose quintana
+2024,José Ramírez,CLE,6.5,ramirjo02,josé ramírez
+2021,José Ramírez,CLE,6.4,ramirjo02,josé ramírez
+2025,José Ramírez,CLE,6.3,ramirjo02,josé ramírez
+2022,José Ramírez,CLE,6.0,ramirjo02,josé ramírez
+2023,José Ramírez,CLE,4.6,ramirjo02,josé ramírez
+2025,José Soriano,LAA,3.0,soriajo02,josé soriano
+2022,José Urquidy,HOU,1.0,urquijo01,josé urquidy
+2021,Josh Bell,WSN,2.2,belljo01,josh bell
+2022,Josh Bell,2 Tms,2.1,belljo01,josh bell
+2023,Josh Bell,2 Tms,0.4,belljo01,josh bell
+2025,Josh Bell,WSN,0.1,belljo01,josh bell
+2024,Josh Bell,2 Tms,-0.1,belljo01,josh bell
+2021,Josh Donaldson,MIN,3.4,donaljo02,josh donaldson
+2022,Josh Donaldson,NYY,1.6,donaljo02,josh donaldson
+2021,Josh Harrison,2 Tms,2.3,harrijo05,josh harrison
+2023,Josh Jung,TEX,2.8,jungjo01,josh jung
+2025,Josh Jung,TEX,1.7,jungjo01,josh jung
+2025,Josh Naylor,2 Tms,3.1,naylojo01,josh naylor
+2024,Josh Naylor,CLE,2.3,naylojo01,josh naylor
+2022,Josh Rojas,ARI,2.5,rojasjo01,josh rojas
+2021,Josh Rojas,ARI,1.8,rojasjo01,josh rojas
+2024,Josh Smith,TEX,2.9,smithjo07,josh smith
+2025,Josh Smith,TEX,1.8,smithjo07,josh smith
+2024,JP Sears,OAK,1.2,searsjp01,jp sears
+2023,JP Sears,OAK,0.6,searsjp01,jp sears
+2024,Juan Soto,NYY,8.3,sotoju01,juan soto
+2021,Juan Soto,WSN,6.8,sotoju01,juan soto
+2023,Juan Soto,SDP,6.2,sotoju01,juan soto
+2025,Juan Soto,NYM,5.8,sotoju01,juan soto
+2022,Juan Soto,2 Tms,3.7,sotoju01,juan soto
+2023,Julio Rodríguez,SEA,5.8,rodriju01,julio rodríguez
+2022,Julio Rodríguez,SEA,5.7,rodriju01,julio rodríguez
+2025,Julio Rodríguez,SEA,5.7,rodriju01,julio rodríguez
+2024,Julio Rodríguez,SEA,4.0,rodriju01,julio rodríguez
+2021,Julio Urías,LAD,5.0,uriasju01,julio urías
+2022,Julio Urías,LAD,3.2,uriasju01,julio urías
+2025,Jung Hoo Lee,SFG,2.4,leeju01,jung hoo lee
+2025,Junior Caminero,TBR,4.6,caminju01,junior caminero
+2024,Jurickson Profar,SDP,4.3,profaju01,jurickson profar
+2022,Jurickson Profar,SDP,2.5,profaju01,jurickson profar
+2023,Jurickson Profar,2 Tms,-1.6,profaju01,jurickson profar
+2023,Justin Steele,CHC,4.8,steelju01,justin steele
+2021,Justin Turner,LAD,4.0,turneju01,justin turner
+2022,Justin Turner,LAD,2.3,turneju01,justin turner
+2023,Justin Turner,BOS,1.2,turneju01,justin turner
+2024,Justin Turner,2 Tms,1.2,turneju01,justin turner
+2022,Justin Verlander,HOU,6.1,verlaju01,justin verlander
+2023,Justin Verlander,2 Tms,3.4,verlaju01,justin verlander
+2023,Ke'Bryan Hayes,PIT,3.2,hayeske01,ke'bryan hayes
+2022,Ke'Bryan Hayes,PIT,3.1,hayeske01,ke'bryan hayes
+2025,Ke'Bryan Hayes,2 Tms,1.4,hayeske01,ke'bryan hayes
+2023,Keibert Ruiz,WSN,-0.5,ruizke01,keibert ruiz
+2024,Ketel Marte,ARI,6.3,marteke01,ketel marte
+2025,Ketel Marte,ARI,4.6,marteke01,ketel marte
+2023,Ketel Marte,ARI,4.3,marteke01,ketel marte
+2022,Ketel Marte,ARI,1.8,marteke01,ketel marte
+2022,Kevin Gausman,TOR,5.5,gausmke01,kevin gausman
+2023,Kevin Gausman,TOR,5.3,gausmke01,kevin gausman
+2021,Kevin Gausman,SFG,4.8,gausmke01,kevin gausman
+2025,Kevin Gausman,TOR,4.1,gausmke01,kevin gausman
+2024,Kevin Gausman,TOR,3.0,gausmke01,kevin gausman
+2021,Kevin Newman,PIT,-0.4,newmake01,kevin newman
+2023,Kodai Senga,NYM,3.4,sengako01,kodai senga
+2021,Kris Bryant,2 Tms,3.1,bryankr01,kris bryant
+2024,Kutter Crawford,BOS,1.8,crawfku01,kutter crawford
+2023,Kyle Bradish,BAL,3.9,bradiky01,kyle bradish
+2021,Kyle Farmer,CIN,2.1,farmeky01,kyle farmer
+2022,Kyle Farmer,CIN,1.5,farmeky01,kyle farmer
+2022,Kyle Freeland,COL,2.5,freelky01,kyle freeland
+2025,Kyle Freeland,COL,2.5,freelky01,kyle freeland
+2021,Kyle Gibson,2 Tms,3.1,gibsoky01,kyle gibson
+2023,Kyle Gibson,BAL,2.7,gibsoky01,kyle gibson
+2022,Kyle Gibson,PHI,1.8,gibsoky01,kyle gibson
+2024,Kyle Gibson,STL,1.4,gibsoky01,kyle gibson
+2025,Kyle Hendricks,LAA,1.8,hendrky01,kyle hendricks
+2021,Kyle Hendricks,CHC,1.1,hendrky01,kyle hendricks
+2025,Kyle Manzardo,CLE,1.2,manzaky01,kyle manzardo
+2025,Kyle Schwarber,PHI,4.9,schwaky01,kyle schwarber
+2024,Kyle Schwarber,PHI,3.3,schwaky01,kyle schwarber
+2022,Kyle Schwarber,PHI,2.2,schwaky01,kyle schwarber
+2023,Kyle Schwarber,PHI,0.9,schwaky01,kyle schwarber
+2021,Kyle Seager,SEA,2.3,seageky01,kyle seager
+2021,Kyle Tucker,HOU,4.9,tuckeky01,kyle tucker
+2022,Kyle Tucker,HOU,4.9,tuckeky01,kyle tucker
+2023,Kyle Tucker,HOU,4.9,tuckeky01,kyle tucker
+2025,Kyle Tucker,CHC,4.5,tuckeky01,kyle tucker
+2022,Kyle Wright,ATL,2.8,wrighky01,kyle wright
+2023,LaMonte Wade Jr.,SFG,1.8,wadela01,lamonte wade jr
+2023,Lance Lynn,2 Tms,0.5,lynnla01,lance lynn
+2021,Lance McCullers Jr.,HOU,3.2,mcculla02,lance mccullers jr
+2023,Lane Thomas,WSN,2.9,thomala02,lane thomas
+2022,Lane Thomas,WSN,1.4,thomala02,lane thomas
+2024,Lane Thomas,2 Tms,1.4,thomala02,lane thomas
+2023,Lars Nootbaar,STL,3.1,nootbla01,lars nootbaar
+2025,Lars Nootbaar,STL,0.8,nootbla01,lars nootbaar
+2025,Lawrence Butler,ATH,2.0,butlela01,lawrence butler
+2025,Lenyn Sosa,CHW,1.4,sosale01,lenyn sosa
+2023,Leody Taveras,TEX,2.5,taverle01,leody taveras
+2024,Leody Taveras,TEX,1.2,taverle01,leody taveras
+2024,Logan Gilbert,SEA,4.0,gilbelo01,logan gilbert
+2022,Logan Gilbert,SEA,3.0,gilbelo01,logan gilbert
+2023,Logan Gilbert,SEA,3.0,gilbelo01,logan gilbert
+2024,Logan O'Hoppe,LAA,2.1,ohopplo01,logan o'hoppe
+2025,Logan Webb,SFG,5.5,webblo01,logan webb
+2023,Logan Webb,SFG,4.9,webblo01,logan webb
+2024,Logan Webb,SFG,4.4,webblo01,logan webb
+2022,Logan Webb,SFG,4.2,webblo01,logan webb
+2024,Lourdes Gurriel Jr.,ARI,2.1,gurrilo01,lourdes gurriel jr
+2023,Lourdes Gurriel Jr.,ARI,2.0,gurrilo01,lourdes gurriel jr
+2021,Lourdes Gurriel Jr.,TOR,1.7,gurrilo01,lourdes gurriel jr
+2025,Lourdes Gurriel Jr.,ARI,0.8,gurrilo01,lourdes gurriel jr
+2021,Lucas Giolito,CHW,4.1,giolilu01,lucas giolito
+2023,Lucas Giolito,3 Tms,0.9,giolilu01,lucas giolito
+2023,Luis Arraez,MIA,3.4,arraelu01,luis arraez
+2022,Luis Arraez,MIN,2.7,arraelu01,luis arraez
+2024,Luis Arraez,2 Tms,1.1,arraelu01,luis arraez
+2025,Luis Arraez,SDP,0.9,arraelu01,luis arraez
+2021,Luis Castillo,CIN,3.9,castilu02,luis castillo
+2023,Luis Castillo,SEA,3.3,castilu02,luis castillo
+2025,Luis Castillo,SEA,2.6,castilu02,luis castillo
+2024,Luis Castillo,SEA,2.3,castilu02,luis castillo
+2024,Luis García Jr.,WSN,3.0,garcilu03,luis garcía jr
+2025,Luis García Jr.,WSN,0.7,garcilu03,luis garcía jr
+2022,Luis Rengifo,LAA,1.7,rengilu01,luis rengifo
+2025,Luis Rengifo,LAA,0.0,rengilu01,luis rengifo
+2023,Luis Robert Jr.,CHW,4.9,roberlu01,luis robert jr
+2025,Luis Severino,ATH,2.5,severlu01,luis severino
+2024,Luis Severino,NYM,2.1,severlu01,luis severino
+2021,Luis Urías,MIL,2.3,uriaslu01,luis urías
+2022,Luke Voit,2 Tms,0.4,voitlu01,luke voit
+2024,MacKenzie Gore,WSN,3.2,gorema01,mackenzie gore
+2025,Maikel Garcia,KCR,5.6,garcima01,maikel garcia
+2023,Maikel Garcia,KCR,2.2,garcima01,maikel garcia
+2024,Maikel Garcia,KCR,1.2,garcima01,maikel garcia
+2022,Manny Machado,SDP,7.1,machama01,manny machado
+2021,Manny Machado,SDP,4.5,machama01,manny machado
+2025,Manny Machado,SDP,3.8,machama01,manny machado
+2024,Manny Machado,SDP,3.5,machama01,manny machado
+2023,Manny Machado,SDP,3.4,machama01,manny machado
+2024,Marcell Ozuna,ATL,4.7,ozunama01,marcell ozuna
+2023,Marcell Ozuna,ATL,3.2,ozunama01,marcell ozuna
+2025,Marcell Ozuna,ATL,1.2,ozunama01,marcell ozuna
+2022,Marcell Ozuna,ATL,-0.3,ozunama01,marcell ozuna
+2022,Marco Gonzales,SEA,-0.1,gonzama02,marco gonzales
+2023,Marcus Semien,TEX,6.5,semiema01,marcus semien
+2021,Marcus Semien,TOR,6.0,semiema01,marcus semien
+2022,Marcus Semien,TEX,4.4,semiema01,marcus semien
+2024,Marcus Semien,TEX,4.3,semiema01,marcus semien
+2025,Marcus Semien,TEX,2.1,semiema01,marcus semien
+2021,Marcus Stroman,NYM,3.5,stromma01,marcus stroman
+2021,Mark Canha,OAK,2.9,canhama01,mark canha
+2022,Mark Canha,NYM,2.5,canhama01,mark canha
+2023,Mark Canha,2 Tms,1.7,canhama01,mark canha
+2022,Martín Pérez,TEX,3.9,perezma02,martín pérez
+2023,Masataka Yoshida,BOS,0.7,yoshima02,masataka yoshida
+2024,Masyn Winn,STL,3.6,winnma01,masyn winn
+2025,Masyn Winn,STL,3.5,winnma01,masyn winn
+2024,Matt Chapman,SFG,5.4,chapmma01,matt chapman
+2022,Matt Chapman,TOR,3.9,chapmma01,matt chapman
+2021,Matt Chapman,OAK,3.7,chapmma01,matt chapman
+2025,Matt Chapman,SFG,3.7,chapmma01,matt chapman
+2023,Matt Chapman,TOR,2.9,chapmma01,matt chapman
+2025,Matt McLain,CIN,1.4,mclaima01,matt mclain
+2023,Matt Olson,ATL,6.6,olsonma02,matt olson
+2021,Matt Olson,OAK,5.0,olsonma02,matt olson
+2025,Matt Olson,ATL,4.7,olsonma02,matt olson
+2022,Matt Olson,ATL,3.1,olsonma02,matt olson
+2024,Matt Olson,ATL,2.6,olsonma02,matt olson
+2024,Matt Vierling,DET,2.3,vierlma01,matt vierling
+2023,Matt Vierling,DET,1.7,vierlma01,matt vierling
+2025,Matthew Boyd,CHC,3.4,boydma01,matthew boyd
+2022,Max Fried,ATL,4.9,friedma01,max fried
+2025,Max Fried,NYY,4.8,friedma01,max fried
+2021,Max Fried,ATL,3.7,friedma01,max fried
+2024,Max Fried,ATL,3.4,friedma01,max fried
+2021,Max Muncy,LAD,4.5,muncyma01,max muncy
+2023,Max Muncy,LAD,2.5,muncyma01,max muncy
+2022,Max Muncy,LAD,2.0,muncyma01,max muncy
+2021,Max Scherzer,2 Tms,5.4,scherma01,max scherzer
+2022,Merrill Kelly,ARI,3.2,kellyme01,merrill kelly
+2023,Merrill Kelly,ARI,3.2,kellyme01,merrill kelly
+2025,Merrill Kelly,2 Tms,3.1,kellyme01,merrill kelly
+2021,Michael A. Taylor,KCR,1.9,taylomi02,michael a taylor
+2021,Michael Brantley,HOU,2.1,brantmi02,michael brantley
+2025,Michael Busch,CHC,3.5,buschmi02,michael busch
+2024,Michael Busch,CHC,2.2,buschmi02,michael busch
+2023,Michael Harris II,ATL,3.9,harrimi04,michael harris ii
+2025,Michael Harris II,ATL,1.4,harrimi04,michael harris ii
+2024,Michael King,SDP,3.9,kingmi01,michael king
+2025,Michael Wacha,KCR,3.6,wachami01,michael wacha
+2024,Michael Wacha,KCR,3.3,wachami01,michael wacha
+2021,Miguel Cabrera,DET,-0.5,cabremi01,miguel cabrera
+2021,Miguel Rojas,MIA,1.9,rojasmi02,miguel rojas
+2022,Miguel Rojas,MIA,1.1,rojasmi02,miguel rojas
+2021,Miguel Sanó,MIN,0.9,sanomi01,miguel sanó
+2025,Miguel Vargas,CHW,1.3,vargami01,miguel vargas
+2025,Mike Trout,LAA,1.8,troutmi01,mike trout
+2025,Mike Yastrzemski,2 Tms,2.3,yastrmi01,mike yastrzemski
+2021,Mike Yastrzemski,SFG,2.1,yastrmi01,mike yastrzemski
+2022,Mike Yastrzemski,SFG,1.5,yastrmi01,mike yastrzemski
+2023,Miles Mikolas,STL,3.0,mikolmi01,miles mikolas
+2022,Miles Mikolas,STL,2.8,mikolmi01,miles mikolas
+2024,Miles Mikolas,STL,1.9,mikolmi01,miles mikolas
+2021,Mitch Haniger,SEA,2.1,hanigmi01,mitch haniger
+2023,Mitch Keller,PIT,3.2,kellemi03,mitch keller
+2025,Mitch Keller,PIT,2.5,kellemi03,mitch keller
+2024,Mitch Keller,PIT,2.2,kellemi03,mitch keller
+2025,Mitchell Parker,WSN,0.9,parkemi01,mitchell parker
+2023,MJ Melendez,KCR,0.4,melenmj01,mj melendez
+2022,MJ Melendez,KCR,-0.6,melenmj01,mj melendez
+2023,Mookie Betts,LAD,7.6,bettsmo01,mookie betts
+2022,Mookie Betts,LAD,6.0,bettsmo01,mookie betts
+2024,Mookie Betts,LAD,4.3,bettsmo01,mookie betts
+2021,Mookie Betts,LAD,3.9,bettsmo01,mookie betts
+2025,Mookie Betts,LAD,3.4,bettsmo01,mookie betts
+2021,Myles Straw,2 Tms,3.1,strawmy01,myles straw
+2022,Myles Straw,CLE,1.5,strawmy01,myles straw
+2023,Myles Straw,CLE,0.2,strawmy01,myles straw
+2021,Nathan Eovaldi,BOS,5.7,eovalna01,nathan eovaldi
+2024,Nathan Eovaldi,TEX,2.6,eovalna01,nathan eovaldi
+2022,Nathaniel Lowe,TEX,3.1,lowena01,nathaniel lowe
+2024,Nathaniel Lowe,TEX,2.9,lowena01,nathaniel lowe
+2023,Nathaniel Lowe,TEX,2.8,lowena01,nathaniel lowe
+2021,Nathaniel Lowe,TEX,2.0,lowena01,nathaniel lowe
+2025,Nathaniel Lowe,2 Tms,-0.3,lowena01,nathaniel lowe
+2021,Nelson Cruz,2 Tms,1.9,cruzne01,nelson cruz
+2022,Nelson Cruz,WSN,-0.5,cruzne01,nelson cruz
+2024,Nestor Cortes,NYY,3.1,cortene01,nestor cortes
+2021,Nick Castellanos,CIN,3.7,casteni01,nick castellanos
+2023,Nick Castellanos,PHI,1.3,casteni01,nick castellanos
+2024,Nick Castellanos,PHI,0.2,casteni01,nick castellanos
+2022,Nick Castellanos,PHI,-0.2,casteni01,nick castellanos
+2025,Nick Castellanos,PHI,-0.6,casteni01,nick castellanos
+2025,Nick Martinez,CIN,2.1,martini01,nick martinez
+2025,Nick Pivetta,SDP,3.7,pivetni01,nick pivetta
+2022,Nick Pivetta,BOS,1.5,pivetni01,nick pivetta
+2021,Nick Solak,TEX,1.2,solakni01,nick solak
+2021,Nicky Lopez,KCR,5.5,lopezni01,nicky lopez
+2025,Nico Hoerner,CHC,4.8,hoernni01,nico hoerner
+2023,Nico Hoerner,CHC,4.5,hoernni01,nico hoerner
+2022,Nico Hoerner,CHC,4.3,hoernni01,nico hoerner
+2024,Nico Hoerner,CHC,3.9,hoernni01,nico hoerner
+2022,Nolan Arenado,STL,7.2,arenano01,nolan arenado
+2021,Nolan Arenado,STL,4.3,arenano01,nolan arenado
+2024,Nolan Arenado,STL,3.2,arenano01,nolan arenado
+2023,Nolan Arenado,STL,2.7,arenano01,nolan arenado
+2025,Nolan Schanuel,LAA,1.4,schanno01,nolan schanuel
+2024,Nolan Schanuel,LAA,0.7,schanno01,nolan schanuel
+2024,Oneil Cruz,PIT,3.6,cruzon01,oneil cruz
+2025,Oneil Cruz,PIT,1.6,cruzon01,oneil cruz
+2023,Orlando Arcia,ATL,2.4,arciaor01,orlando arcia
+2024,Orlando Arcia,ATL,0.8,arciaor01,orlando arcia
+2025,Otto Lopez,MIA,2.3,lopezot01,otto lopez
+2023,Ozzie Albies,ATL,4.1,albieoz01,ozzie albies
+2021,Ozzie Albies,ATL,3.7,albieoz01,ozzie albies
+2025,Ozzie Albies,ATL,1.3,albieoz01,ozzie albies
+2023,Pablo López,MIN,4.6,lopezpa01,pablo lópez
+2024,Pablo López,MIN,3.2,lopezpa01,pablo lópez
+2022,Pablo López,MIA,3.0,lopezpa01,pablo lópez
+2024,Patrick Corbin,WSN,1.7,corbipa01,patrick corbin
+2023,Patrick Corbin,WSN,0.8,corbipa01,patrick corbin
+2021,Patrick Corbin,WSN,0.2,corbipa01,patrick corbin
+2022,Patrick Wisdom,CHC,1.2,wisdopa01,patrick wisdom
+2022,Paul Goldschmidt,STL,6.8,goldspa01,paul goldschmidt
+2021,Paul Goldschmidt,STL,4.8,goldspa01,paul goldschmidt
+2023,Paul Goldschmidt,STL,3.4,goldspa01,paul goldschmidt
+2024,Paul Goldschmidt,STL,1.2,goldspa01,paul goldschmidt
+2025,Paul Goldschmidt,NYY,0.8,goldspa01,paul goldschmidt
+2025,Paul Skenes,PIT,6.5,skenepa01,paul skenes
+2021,Pavin Smith,ARI,0.7,smithpa04,pavin smith
+2022,Pete Alonso,NYM,3.8,alonspe01,pete alonso
+2025,Pete Alonso,NYM,3.6,alonspe01,pete alonso
+2021,Pete Alonso,NYM,3.5,alonspe01,pete alonso
+2023,Pete Alonso,NYM,2.8,alonspe01,pete alonso
+2024,Pete Alonso,NYM,2.1,alonspe01,pete alonso
+2025,Pete Crow-Armstrong,CHC,5.4,crowape01,pete crow-armstrong
+2022,Rafael Devers,BOS,5.0,deverra01,rafael devers
+2021,Rafael Devers,BOS,4.2,deverra01,rafael devers
+2024,Rafael Devers,BOS,4.2,deverra01,rafael devers
+2023,Rafael Devers,BOS,3.5,deverra01,rafael devers
+2025,Rafael Devers,2 Tms,3.3,deverra01,rafael devers
+2021,Raimel Tapia,COL,0.5,tapiara01,raimel tapia
+2021,Randal Grichuk,TOR,0.6,grichra01,randal grichuk
+2022,Randal Grichuk,COL,0.5,grichra01,randal grichuk
+2021,Randy Arozarena,TBR,3.9,arozara01,randy arozarena
+2023,Randy Arozarena,TBR,3.1,arozara01,randy arozarena
+2025,Randy Arozarena,SEA,2.9,arozara01,randy arozarena
+2022,Randy Arozarena,TBR,2.7,arozara01,randy arozarena
+2024,Randy Arozarena,2 Tms,2.0,arozara01,randy arozarena
+2022,Rhys Hoskins,PHI,2.4,hoskirh01,rhys hoskins
+2024,Rhys Hoskins,MIL,0.2,hoskirh01,rhys hoskins
+2024,Riley Greene,DET,3.9,greenri02,riley greene
+2025,Riley Greene,DET,2.9,greenri02,riley greene
+2021,Robbie Grossman,DET,2.6,grossro01,robbie grossman
+2021,Robbie Ray,TOR,3.9,rayro02,robbie ray
+2025,Robbie Ray,SFG,2.2,rayro02,robbie ray
+2022,Robbie Ray,SEA,1.6,rayro02,robbie ray
+2023,Ronald Acuña Jr.,ATL,9.2,acunaro01,ronald acuña jr
+2022,Ronald Acuña Jr.,ATL,2.4,acunaro01,ronald acuña jr
+2024,Ronel Blanco,HOU,2.2,blancro01,ronel blanco
+2022,Rowdy Tellez,MIL,1.0,tellero01,rowdy tellez
+2024,Ryan Feltner,COL,2.5,feltnry01,ryan feltner
+2022,Ryan McMahon,COL,3.1,mcmahry01,ryan mcmahon
+2021,Ryan McMahon,COL,2.5,mcmahry01,ryan mcmahon
+2024,Ryan McMahon,COL,1.9,mcmahry01,ryan mcmahon
+2025,Ryan McMahon,2 Tms,1.9,mcmahry01,ryan mcmahon
+2023,Ryan McMahon,COL,1.8,mcmahry01,ryan mcmahon
+2022,Ryan Mountcastle,BAL,1.7,mountry01,ryan mountcastle
+2024,Ryan Mountcastle,BAL,1.4,mountry01,ryan mountcastle
+2021,Ryan Mountcastle,BAL,0.8,mountry01,ryan mountcastle
+2025,Ryan O'Hearn,2 Tms,3.0,ohearry01,ryan o'hearn
+2025,Ryan Pepiot,TBR,2.0,pepiory01,ryan pepiot
+2025,Sal Frelick,MIL,3.6,frelisa01,sal frelick
+2024,Sal Frelick,MIL,1.5,frelisa01,sal frelick
+2024,Salvador Perez,KCR,3.3,perezsa02,salvador perez
+2021,Salvador Perez,KCR,2.7,perezsa02,salvador perez
+2025,Salvador Perez,KCR,0.5,perezsa02,salvador perez
+2023,Salvador Perez,KCR,-0.3,perezsa02,salvador perez
+2022,Sandy Alcantara,MIA,5.9,alcansa01,sandy alcantara
+2021,Sandy Alcantara,MIA,4.3,alcansa01,sandy alcantara
+2023,Sandy Alcantara,MIA,3.0,alcansa01,sandy alcantara
+2025,Sandy Alcantara,MIA,1.7,alcansa01,sandy alcantara
+2021,Sean Manaea,OAK,3.3,manaese01,sean manaea
+2024,Sean Manaea,NYM,2.8,manaese01,sean manaea
+2022,Sean Murphy,OAK,5.2,murphse01,sean murphy
+2024,Seiya Suzuki,CHC,3.5,suzukse01,seiya suzuki
+2023,Seiya Suzuki,CHC,3.1,suzukse01,seiya suzuki
+2025,Seiya Suzuki,CHC,2.6,suzukse01,seiya suzuki
+2022,Seth Brown,OAK,1.5,brownse01,seth brown
+2024,Seth Lugo,KCR,4.7,lugose01,seth lugo
+2025,Shane Baz,TBR,2.0,bazsh01,shane baz
+2022,Shane Bieber,CLE,4.8,biebesh01,shane bieber
+2022,Shane McClanahan,TBR,3.6,mcclash01,shane mcclanahan
+2025,Shea Langeliers,ATH,3.9,langesh01,shea langeliers
+2024,Shea Langeliers,OAK,2.0,langesh01,shea langeliers
+2024,Shohei Ohtani,LAD,8.9,ohtansh01,shohei ohtani
+2025,Shohei Ohtani,LAD,7.5,ohtansh01,shohei ohtani
+2023,Shohei Ohtani,LAA,6.6,ohtansh01,shohei ohtani
+2022,Shohei Ohtani,LAA,5.6,ohtansh01,shohei ohtani
+2021,Shohei Ohtani,LAA,5.0,ohtansh01,shohei ohtani
+2022,Shohei Ohtani,LAA,3.6,ohtansh01,shohei ohtani
+2024,Shota Imanaga,CHC,3.1,imanash01,shota imanaga
+2023,Sonny Gray,MIN,5.4,grayso01,sonny gray
+2024,Sonny Gray,STL,3.8,grayso01,sonny gray
+2025,Sonny Gray,STL,3.6,grayso01,sonny gray
+2023,Spencer Steer,CIN,2.0,steersp01,spencer steer
+2024,Spencer Steer,CIN,1.6,steersp01,spencer steer
+2025,Spencer Steer,CIN,1.0,steersp01,spencer steer
+2023,Spencer Strider,ATL,5.5,stridsp01,spencer strider
+2025,Spencer Torkelson,DET,2.3,torkesp01,spencer torkelson
+2023,Spencer Torkelson,DET,1.3,torkesp01,spencer torkelson
+2021,Starling Marte,2 Tms,5.2,martest01,starling marte
+2022,Starling Marte,NYM,3.5,martest01,starling marte
+2022,Steven Kwan,CLE,4.7,kwanst01,steven kwan
+2024,Steven Kwan,CLE,4.2,kwanst01,steven kwan
+2025,Steven Kwan,CLE,3.2,kwanst01,steven kwan
+2023,Steven Kwan,CLE,3.0,kwanst01,steven kwan
+2023,Taijuan Walker,PHI,2.4,walketa01,taijuan walker
+2024,Tanner Bibee,CLE,3.3,bibeeta01,tanner bibee
+2025,Tanner Bibee,CLE,1.9,bibeeta01,tanner bibee
+2024,Tanner Houck,BOS,3.9,houckta01,tanner houck
+2025,Tarik Skubal,DET,6.6,skubata01,tarik skubal
+2024,Tarik Skubal,DET,6.0,skubata01,tarik skubal
+2022,Taylor Ward,LAA,3.7,wardta01,taylor ward
+2025,Taylor Ward,LAA,2.9,wardta01,taylor ward
+2024,Taylor Ward,LAA,2.8,wardta01,taylor ward
+2021,Teoscar Hernández,TOR,4.0,hernate01,teoscar hernández
+2024,Teoscar Hernández,LAD,3.4,hernate01,teoscar hernández
+2022,Teoscar Hernández,TOR,3.0,hernate01,teoscar hernández
+2023,Teoscar Hernández,SEA,1.9,hernate01,teoscar hernández
+2025,Teoscar Hernández,LAD,0.6,hernate01,teoscar hernández
+2023,Thairo Estrada,SFG,3.5,estrath01,thairo estrada
+2022,Thairo Estrada,SFG,2.8,estrath01,thairo estrada
+2021,Tim Anderson,CHW,4.3,anderti01,tim anderson
+2023,Tim Anderson,CHW,-0.2,anderti01,tim anderson
+2023,TJ Friedl,CIN,4.1,friedtj01,tj friedl
+2025,TJ Friedl,CIN,2.9,friedtj01,tj friedl
+2022,Tommy Edman,STL,5.4,edmanto01,tommy edman
+2021,Tommy Edman,STL,3.0,edmanto01,tommy edman
+2023,Tommy Edman,STL,2.4,edmanto01,tommy edman
+2021,Tommy Pham,SDP,1.1,phamth01,tommy pham
+2022,Tommy Pham,2 Tms,0.7,phamth01,tommy pham
+2022,Tony Kemp,OAK,1.4,kempto01,tony kemp
+2021,Trea Turner,2 Tms,7.1,turnetr01,trea turner
+2025,Trea Turner,PHI,6.7,turnetr01,trea turner
+2022,Trea Turner,LAD,6.4,turnetr01,trea turner
+2023,Trea Turner,PHI,4.1,turnetr01,trea turner
+2024,Trea Turner,PHI,3.9,turnetr01,trea turner
+2025,Trent Grisham,NYY,3.2,grishtr01,trent grisham
+2021,Trent Grisham,SDP,2.6,grishtr01,trent grisham
+2022,Trent Grisham,SDP,1.7,grishtr01,trent grisham
+2023,Trent Grisham,SDP,1.7,grishtr01,trent grisham
+2025,Trevor Larnach,MIN,0.2,larnatr01,trevor larnach
+2025,Trevor Story,BOS,3.0,storytr01,trevor story
+2021,Trevor Story,COL,2.2,storytr01,trevor story
+2022,Trey Mancini,2 Tms,1.0,mancitr01,trey mancini
+2021,Trey Mancini,BAL,0.9,mancitr01,trey mancini
+2023,Triston Casas,BOS,1.8,casastr01,triston casas
+2022,Triston McKenzie,CLE,3.4,mckentr01,triston mckenzie
+2021,Ty France,SEA,3.2,francty01,ty france
+2022,Ty France,SEA,2.6,francty01,ty france
+2023,Ty France,SEA,1.3,francty01,ty france
+2024,Ty France,2 Tms,-0.8,francty01,ty france
+2022,Tyler Anderson,LAD,4.1,anderty01,tyler anderson
+2021,Tyler Anderson,2 Tms,2.1,anderty01,tyler anderson
+2024,Tyler Anderson,LAA,1.5,anderty01,tyler anderson
+2021,Tyler Mahle,CIN,3.9,mahlety01,tyler mahle
+2021,Tyler O'Neill,STL,5.3,oneilty01,tyler o'neill
+2025,Tyler Soderstrom,ATH,3.4,soderty01,tyler soderstrom
+2024,Tyler Stephenson,CIN,3.1,stephty01,tyler stephenson
+2023,Tyler Stephenson,CIN,-0.6,stephty01,tyler stephenson
+2024,Vinnie Pasquantino,KCR,1.5,pasquvi01,vinnie pasquantino
+2025,Vinnie Pasquantino,KCR,1.5,pasquvi01,vinnie pasquantino
+2021,Vladimir Guerrero Jr.,TOR,6.3,guerrvl02,vladimir guerrero jr
+2024,Vladimir Guerrero Jr.,TOR,5.3,guerrvl02,vladimir guerrero jr
+2025,Vladimir Guerrero Jr.,TOR,3.9,guerrvl02,vladimir guerrero jr
+2022,Vladimir Guerrero Jr.,TOR,3.3,guerrvl02,vladimir guerrero jr
+2023,Vladimir Guerrero Jr.,TOR,1.2,guerrvl02,vladimir guerrero jr
+2021,Wade Miley,CIN,3.0,mileywa01,wade miley
+2021,Walker Buehler,LAD,5.6,buehlwa01,walker buehler
+2021,Whit Merrifield,KCR,2.6,merriwh01,whit merrifield
+2022,Whit Merrifield,2 Tms,1.3,merriwh01,whit merrifield
+2023,Whit Merrifield,TOR,1.2,merriwh01,whit merrifield
+2022,Will Smith,LAD,4.3,smithwi05,will smith
+2023,Will Smith,LAD,3.8,smithwi05,will smith
+2024,Will Smith,LAD,2.6,smithwi05,will smith
+2025,Will Warren,NYY,2.1,warrewi01,will warren
+2024,Willi Castro,MIN,2.9,castrwi01,willi castro
+2023,William Contreras,MIL,5.8,contrwi02,william contreras
+2024,William Contreras,MIL,5.5,contrwi02,william contreras
+2025,William Contreras,MIL,3.6,contrwi02,william contreras
+2025,Willson Contreras,STL,2.8,contrwi01,willson contreras
+2024,Willy Adames,MIL,4.8,adamewi01,willy adames
+2022,Willy Adames,MIL,4.4,adamewi01,willy adames
+2025,Willy Adames,SFG,4.0,adamewi01,willy adames
+2023,Willy Adames,MIL,3.4,adamewi01,willy adames
+2021,Willy Adames,2 Tms,3.1,adamewi01,willy adames
+2022,Wilmer Flores,SFG,1.3,florewi01,wilmer flores
+2025,Wyatt Langford,TEX,4.1,langfwy01,wyatt langford
+2024,Wyatt Langford,TEX,3.1,langfwy01,wyatt langford
+2022,Xander Bogaerts,BOS,6.0,bogaexa01,xander bogaerts
+2023,Xander Bogaerts,SDP,4.6,bogaexa01,xander bogaerts
+2021,Xander Bogaerts,BOS,4.1,bogaexa01,xander bogaerts
+2025,Xander Bogaerts,SDP,3.2,bogaexa01,xander bogaerts
+2025,Xavier Edwards,MIA,2.5,edwarxa01,xavier edwards
+2024,Yainer Diaz,HOU,3.0,diazya02,yainer diaz
+2025,Yainer Diaz,HOU,1.6,diazya02,yainer diaz
+2023,Yandy Díaz,TBR,5.0,diazya01,yandy díaz
+2022,Yandy Díaz,TBR,3.9,diazya01,yandy díaz
+2025,Yandy Díaz,TBR,2.9,diazya01,yandy díaz
+2024,Yandy Díaz,TBR,1.9,diazya01,yandy díaz
+2021,Yandy Díaz,TBR,1.7,diazya01,yandy díaz
+2021,Yoán Moncada,CHW,3.7,moncayo01,yoán moncada
+2022,Yordan Alvarez,HOU,6.4,alvaryo01,yordan alvarez
+2024,Yordan Alvarez,HOU,5.2,alvaryo01,yordan alvarez
+2021,Yordan Alvarez,HOU,3.5,alvaryo01,yordan alvarez
+2025,Yoshinobu Yamamoto,LAD,5.0,yamamyo01,yoshinobu yamamoto
+2022,Yu Darvish,SDP,4.2,darviyu01,yu darvish
+2021,Yu Darvish,SDP,2.8,darviyu01,yu darvish
+2021,Yuli Gurriel,HOU,3.3,gourryu01,yuli gurriel
+2022,Yuli Gurriel,HOU,-0.7,gourryu01,yuli gurriel
+2024,Yusei Kikuchi,2 Tms,3.6,kikucyu01,yusei kikuchi
+2023,Yusei Kikuchi,TOR,2.6,kikucyu01,yusei kikuchi
+2025,Yusei Kikuchi,LAA,2.5,kikucyu01,yusei kikuchi
+2023,Zac Gallen,ARI,5.2,galleza01,zac gallen
+2022,Zac Gallen,ARI,4.2,galleza01,zac gallen
+2025,Zac Gallen,ARI,1.1,galleza01,zac gallen
+2023,Zach Eflin,TBR,4.9,eflinza01,zach eflin
+2024,Zach Eflin,2 Tms,2.8,eflinza01,zach eflin
+2025,Zach McKinstry,DET,3.2,mckinza01,zach mckinstry
+2023,Zach McKinstry,DET,1.1,mckinza01,zach mckinstry
+2024,Zach Neto,LAA,3.5,netoza01,zach neto
+2025,Zach Neto,LAA,3.1,netoza01,zach neto
+2024,Zack Gelof,OAK,1.4,gelofza01,zack gelof
+2021,Zack Greinke,HOU,1.2,greinza01,zack greinke
+2025,Zack Littell,2 Tms,1.5,litteza01,zack littell
+2021,Zack Wheeler,PHI,7.2,wheelza01,zack wheeler
+2023,Zack Wheeler,PHI,5.9,wheelza01,zack wheeler
+2024,Zack Wheeler,PHI,5.4,wheelza01,zack wheeler
